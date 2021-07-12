@@ -1,4 +1,4 @@
-Developers Responsibility:
+Team Responsibility:
 
 -	A solution/ project should compile well without error or warning. 
 -	A program or a snippet is not complete, without developer-tested and unit tests cases.	
