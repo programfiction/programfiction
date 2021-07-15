@@ -1,4 +1,4 @@
-Team Responsibility:
+## Team Responsibility:
 -	A solution/ project should compile well without error or warning. 
 -	A program or a snippet is not complete, without developer-tested and unit tests cases.	
 -	A complete documentation also crucial for a solution. 
@@ -16,7 +16,7 @@ Team Responsibility:
 -	Can any code be replaced by calls to external reusable components or library functions?	
 -	Design pattern need to take care of possible deadlocks. Use of CQRS
 
-Code reviewer pool responsibility:
+## Code reviewer pool responsibility:
 - A code reviewer must make sure comments are comprehensible & neither numerous nor verbose.
 - A code reviewer should find types are generalized where possible & parameterized types are used appropriately.
 - A code reviewer also takes care of exceptions handling are proper or not. Also common error codes should return where needed with standard error format across project.
