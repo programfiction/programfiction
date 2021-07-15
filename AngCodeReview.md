@@ -41,7 +41,7 @@
     <div class="ClassforStyle"> <===== use class present in file.
     ```
 
- - Do not use &nbsp;&nbsp;&nbsp;. Use css padding/margin as needed.
+ - Do not use `&nbsp;&nbsp;&nbsp;`. Use css padding/margin as needed.
  - Do not us `<br/>` for new line. Use style to add line space. 
     ```yaml
     <div> 
