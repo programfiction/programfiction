@@ -42,13 +42,12 @@
     ```
 
  - Do not use &nbsp;&nbsp;&nbsp;. Use css padding/margin as needed.
- - Do not us <br/> for new line. Use style to add line space. 
+ - Do not us `<br/>` for new line. Use style to add line space. 
     ```yaml
     <div> 
     &nbsp;&nbsp;&nbsp;I am a Mentor   <===== do not use hardcode &nbsp;
     <br/>                              <=======do not write <BR/>
     I am Writing bad code 
-    <>
     </div>
     ---
     <div> <===== use class present in file.
