@@ -1,5 +1,4 @@
 Team Responsibility:
-
 -	A solution/ project should compile well without error or warning. 
 -	A program or a snippet is not complete, without developer-tested and unit tests cases.	
 -	A complete documentation also crucial for a solution. 
@@ -16,3 +15,18 @@ Team Responsibility:
 -	Corner cases well documented or any workaround for a known limitation of the frameworks
 -	Can any code be replaced by calls to external reusable components or library functions?	
 -	Design pattern need to take care of possible deadlocks. Use of CQRS
+
+Code reviewer pool responsibility:
+- A code reviewer must make sure comments are comprehensible & neither numerous nor verbose.
+- A code reviewer should find types are generalized where possible & parameterized types are used appropriately.
+- A code reviewer also takes care of exceptions handling are proper or not. Also common error codes should return where needed with standard error format across project.
+- Design should follow SOLID principle & Development standards.
+    - A class should have single responsibility.
+    - Methods should be short and defined appropriately in class using interface.
+    -Repetitive code should be factored out. 
+    - Naming convention should be standardized
+    - Performance was considered during development
+    - Code should not have unjustifiable method and code
+- A code reviewer pool should standardize unit testing and should have a baseline 70~80 % of code coverage.
+- Security concerns have been addressed.
+- Logging implementation is also vital during code review to identify performance & issues.
