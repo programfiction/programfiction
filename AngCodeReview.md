@@ -1,6 +1,8 @@
 ## Code review Guidelines for angular & typescript
-
--	Do not use `“any”`. Always use valid types
+- Do not use timeout to delay navigation or hide any component. 
+- Avoid using iFrames as it might create security concern.
+- Do not add any component / Ui related code inside service. 
+- Do not use `“any”`. Always use valid types
     ```yaml
     export class MyClass implements OnInit{
     ---
@@ -9,6 +11,7 @@
     }
     ```
 - Do not hardcode text in templates. Move all text to lang files and use language keys and language pipe
+    - Avoid using string concatination use lang keys
     ```yaml
     <div>
     Contact Address <===== do not use hardcode txt
@@ -42,7 +45,7 @@
     ```
 
  - Do not use `&nbsp;&nbsp;&nbsp;`. Use css padding/margin as needed.
- - Do not us `<br/>` for new line. Use style to add line space. 
+    - Do not us `<br/>` for new line. Use style to add line space. 
     ```yaml
     <div> 
     &nbsp;&nbsp;&nbsp;I am a Mentor   <===== do not use hardcode &nbsp;
@@ -56,6 +59,8 @@
     </div>
     ```
 - Use proper selector name for components w.r.t. to feature in project in place of generic selector
+    - It's best practic to create components responsive.
+    - Create component with single responsiblity
     ```yaml
     @Component({
     selector: 'app-demoselector'   <====== Selector name should not be generic it should be specific
@@ -65,7 +70,8 @@
     selector: 'employee-profile-demoselector'
     //somecode
     ```
-- Use Project defined SASS variabs for color & padding etc. DO not use hardcode css value.
+- Use Project defined SASS variables for color & padding etc. DO not use hardcode css value.
+    - Do not add hardcoded width on template or Css. use Bootstrap classes.
     ```yaml
     .MyClassForDiv{
     background-color: #000000;
@@ -75,7 +81,7 @@
     background-color: $accent-1-dark;
     }
     ```
- - Unsubscribe ngOnDestroy if you have subscribed any object.
+- Unsubscribe on ngOnDestroy if you have subscribed any object in component.
     ```yaml
     ngOninit():void{
     this.myObject= this.myObservable.Subscribe({
@@ -85,3 +91,38 @@
     this.myObject.unsubscribe();  <===== Use Unsubscribe of every subscription.
     }    
     ```
+- Do not push empty files 
+- Services are singleton and class variables will get shared between components. 
+    - Avoid having class variables inside service unless you are using as shared variables between different component instances. 
+    - Reason : Angular creates only one instance of services by default.
+    ```yaml
+    @Injectabl()
+    export class LearningMyService {
+    provate notification: Notifications[];    <====== notifications will be shared between components. 
+    }
+    //some code    
+    ```
+ - Avoid calling Direct functions inside template as they get called in every change detection.Use functions only to events. 
+    ```yaml
+    <success-button [disabled]="IsDisabledFunction()"     <===== avoid calling this kind of function. Use variables 
+                    (click)="ShowFunction()"              <====== Good to use
+                    *ngIf="showVariable"                  <====== example of use class variables inplace of function
+    ```
+ - Avoid overriding library defined component styles
+    ```yaml
+    :: ng-deep my-list-view {                       <======= Avoid overriding 
+    //some code
+    }
+    ```  
+ - No need to use cathError if you are not doing anying with it. Error will be thrown autometically. 
+    ```yaml
+    Save(){
+    //some code 
+    .catch((errorObj)) => throw errorObj;               <====== Avoid catching and rethrowing 
+    }
+    ```  
+ - Import lodash functions and use it in every component. Do not use Global
+    ```yaml
+    import {get, isEmpty, size} from 'lodash';
+    ```
+ 
