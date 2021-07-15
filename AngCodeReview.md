@@ -1,7 +1,17 @@
 ## Code review Guidelines for angular & typescript
+
+- Follow angular style guide for coding standards. https://angular.io/guide/styleguide
+- Use common library for angular components. Avoid using different packages.
+- Do not push empty files 
 - Do not use timeout to delay navigation or hide any component. 
 - Avoid using iFrames as it might create security concern.
 - Do not add any component / Ui related code inside service. 
+- Do not use relative path for static assets.
+    ```yaml
+    <img src="/ext/asset/img.img">              <====== do not use relative path
+    ---
+    this.StaticAsset= this.myUrlDecoratorService.decorateStaticUrl('somepath/somefile.img');            <====== should use service to decorate all static files
+    ```
 - Do not use `“any”`. Always use valid types
     ```yaml
     export class MyClass implements OnInit{
@@ -72,9 +82,11 @@
     ```
 - Use Project defined SASS variables for color & padding etc. DO not use hardcode css value.
     - Do not add hardcoded width on template or Css. use Bootstrap classes.
+    - Do not manipulate any scss veriable 
     ```yaml
     .MyClassForDiv{
-    background-color: #000000;
+    background-color: #000000;              <=======do not use hardcoded color
+    margin-right: @xl-spacer*3              =< do not manipulate variables
     }
     ---
     .MyClassForDiv{
@@ -91,7 +103,6 @@
     this.myObject.unsubscribe();  <===== Use Unsubscribe of every subscription.
     }    
     ```
-- Do not push empty files 
 - Services are singleton and class variables will get shared between components. 
     - Avoid having class variables inside service unless you are using as shared variables between different component instances. 
     - Reason : Angular creates only one instance of services by default.
@@ -125,4 +136,11 @@
     ```yaml
     import {get, isEmpty, size} from 'lodash';
     ```
- 
+ - Do not hardcode any API URLs. Always get URL using SFFO
+    - Define SFFO "check `<Directorypath>/document.service.ts`  
+    ```yaml
+    let requestUrl= `api/someversion/myapi/${emplid}`;                                      <====== do not use hardcode url
+    ---
+    let requestUrl = `$(this.authHelper.getOperationHref(DOCUMENT_PERMISSION.documentRead.sffo, role)}`;   <======get urls using sffo
+    ```
+- 
