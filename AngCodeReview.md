@@ -1,4 +1,5 @@
-Code review Guidelines for angular & typescript
+## Code review Guidelines for angular & typescript
+
 -	Do not use `“any”`. Always use valid types
   ```yaml
   export class MyClass implements OnInit{
