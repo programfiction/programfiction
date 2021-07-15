@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on Microsoft technology
 - 📫 How to reach me ram2mishra@gmail.com
 - My new ideas on Coading standards : https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md 
+- My ideas on Angular code review : https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md
 
 <!---
 programfiction/programfiction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
