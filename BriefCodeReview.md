@@ -17,6 +17,24 @@
 -	Design pattern need to take care of possible deadlocks. Use of CQRS
 
 ## Code reviewer pool responsibility:
+-	Reviewer pool should review any code review in place single dev/ architect. 
+-	Do not push empty files to Repository.
+-	Do not push commented ts/js/css/html or any other file to Repository
+-	Try to create small and frequent Pull requests to lower/staging environment in Repository.
+-	Avoid using iFrames as it might create security concern.  In needed talk with architecture team
+-	Each commit should have complete message with some standard across team.
+    - e.g. Fix(Story number): description
+    - e.g. Feature(Story number) : description
+- Pull request/ code reviews should have complete comments related to change with story number starting with below initials 
+	- build: change that effect system or external dependencies added
+	- ci: Changes related CICD 
+	- docs: adding some static documentation to project
+	- feat: implementation of new feature
+	- fix: Is a bug fix
+	- perf: Code review that improves performance of project
+	- refactor: refactoring redundant code
+	- style: adding style to project
+	- test: adding test case to project
 - A code reviewer must make sure comments are comprehensible & neither numerous nor verbose.
 - A code reviewer should find types are generalized where possible & parameterized types are used appropriately.
 - A code reviewer also takes care of exceptions handling are proper or not. Also common error codes should return where needed with standard error format across project.
