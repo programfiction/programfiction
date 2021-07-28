@@ -11,5 +11,12 @@
 - My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
 - My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
 - My ideas on `C#` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/CSharpCodeReview.md)
+- Approach for server less website in `Azure` : [click here](https://github.com/programfiction/programfiction/blob/master/ServerLessApp.md)
+- Fiction snippets & Interview questions with answer.
+
+    | Topics | Tech #1  | Tech#2 | Tech#3 |
+    | :---:   | :-: | :-: | :-: | 
+    | # | # | # | #}
 ---
 -![1](https://github.com/programfiction/programfiction/blob/master/1.PNG)
+
