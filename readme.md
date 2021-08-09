@@ -18,6 +18,7 @@
     | Topics | Tech #1  | Tech#2 | Tech#3 |
     | :---:   | :-: | :-: | :-: | 
     | [Anagram Logic](https://github.com/programfiction/FictionSnippets/blob/6474c8d6cc8880b168ef1ba967a6aefab330567e/Snippets/Anagram.cs) | For written test line no:#11 | One liner solution line no:#39 | Using dictionary line no:#55 |
+    | Code editor for c# | [codeinterview.io](https://codeinterview.io/) |[replit.com](https://replit.com/) | [ide geeks for geeks](https://ide.geeksforgeeks.org/)|
 ---
 -![1](https://github.com/programfiction/programfiction/blob/master/1.PNG)
 
