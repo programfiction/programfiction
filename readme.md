@@ -25,7 +25,8 @@
     | Alumni Application with c#, .net5, Angular 11, SqlLite | [click here](https://github.com/programfiction/Alumni-App) |
     | Succession planning project for any organization | [click here](https://github.com/programfiction/programfiction/blob/master/SuccessionPlanning.md) |
 ---
--![1](https://github.com/programfiction/programfiction/blob/master/1.PNG)
----
+
+​![Ram's GitHub stats](https://github-readme-stats.vercel.app/api​?username=programfiction&hide=contribs,prs​)
+
 By : `Ram`
 {% raw %}{% seo %}{% endraw %}
