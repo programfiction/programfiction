@@ -15,13 +15,12 @@
 - Ideas on Unit testing .net 5(c#) applications: [click here](https://github.com/programfiction/programfiction/blob/master/UnitestCSharp.md)
 - Ideas on Unit testing angular 11 applications: [click here](https://github.com/programfiction/programfiction/blob/master/UnitestAngular.md)
 - Approach for server less website in `Azure` : [click here](https://github.com/programfiction/programfiction/blob/master/ServerLessApp.md)
-- Fiction snippets & Interview questions with answer.
+- Fiction snippets & Interview questions with answers:
 
-    | Topics | Tech #1  | Tech#2 | Tech#3 |
-    | :---:   | :-: | :-: | :-: | 
-    | [Anagram Logic](https://github.com/programfiction/FictionSnippets/blob/6474c8d6cc8880b168ef1ba967a6aefab330567e/Snippets/Anagram.cs) | For written test line no:#11 | One liner solution line no:#39 | Using dictionary line no:#55 |
-    | [Datastructure & algorithms](https://github.com/programfiction/FictionSnippets/blob/6474c8d6cc8880b168ef1ba967a6aefab330567e/Snippets/Anagram.cs) |  |  | |
-    | Code editor for c# | [codeinterview.io](https://codeinterview.io/) |[replit.com](https://replit.com/) | [ide geeks for geeks](https://ide.geeksforgeeks.org/)|
+    | Topics | Link   |
+    | :---:   | :-: | 
+    | Datastructure and Interview Questions | [Click here](https://github.com/programfiction/FictionSnippets) |
+    | Code editor for c# | [codeinterview.io](https://codeinterview.io/)<br /> [replit.com](https://replit.com/)  <br />[ide geeks for geeks](https://ide.geeksforgeeks.org/)|
 ---
 -![1](https://github.com/programfiction/programfiction/blob/master/1.PNG)
 
