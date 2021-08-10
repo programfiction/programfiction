@@ -1,9 +1,9 @@
-## Unit testing Guidelines for .net5(c#)
+# Unit testing Guidelines for .net5(c#)
 
 ***
  [Read More on Microsoft Site](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
  
- # What is code coverage?
+ ## What is code coverage?
 - `Answer` :
 A high code coverage percentage is often associated with a higher quality of code. However, the measurement itself cannot determine the quality of code. Setting an overly ambitious code coverage percentage goal can be counterproductive. Imagine a complex project with thousands of conditional branches, and imagine that you set a goal of 95% code coverage. Currently the project maintains 90% code coverage. The amount of time it takes to account for all of the edge cases in the remaining 5% could be a massive undertaking, and the value proposition quickly diminishes.
 
@@ -19,7 +19,7 @@ A high code coverage percentage is not an indicator of success, nor does it impl
 - Don't print anything out in in unit tests.
 - Don't skip unit tests instead remove it from source code.
 
-# Some more best bractics:
+## Some more best practics:
 - Unit tests should be readable.
 No one wants to spend time trying to figure out what is that your test does. Ideally, this should be clear just by looking at the test name.
 
