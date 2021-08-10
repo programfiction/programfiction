@@ -1,8 +1,18 @@
 # PROGRAMFICTION
 ***
-👋 Hi, I’m Ramakrushna Mishra
+👋 Hi, I’m Ramakrushna 
+
+***
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Rams's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=programfiction&show_icons=true&hide_border=false" />
+
+</details>
+
 ---
----
+
 - 💞️ I’m looking to collaborate on Microsoft technology
 - 📫 How to reach me 
   - Mail : ram2mishra@gmail.com
@@ -26,7 +36,6 @@
     | Succession planning project for any organization | [click here](https://github.com/programfiction/programfiction/blob/master/SuccessionPlanning.md) |
 ---
 
-​![Ram's GitHub stats](https://github-readme-stats.vercel.app/api​?username=programfiction&hide=contribs,prs​)
 
 By : `Ram`
 {% raw %}{% seo %}{% endraw %}
