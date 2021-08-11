@@ -17,3 +17,19 @@ Serverless Application with Azure for small organization cost effective
     - `Azure ADB2C` : For managing users, account creation and logins securely
     - `Azure Blob Storeage`: Host SPA by enabling static website hosting.
 
+### Links to docs of serverless services:
+
+- Azure Functions: https://docs.microsoft.com/en-us/azure/azure-functions/
+- Azure App Service: https://docs.microsoft.com/en-us/azure/app-service/
+- Azure Kubernetes Service: https://docs.microsoft.com/en-us/azure/aks/
+- Azure Cosmos DB: https://docs.microsoft.com/en-us/azure/cosmos-db/
+- Azure Blob Storage: https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction
+- Azure Monitor: https://docs.microsoft.com/en-us/azure/azure-monitor/
+- Azure Stream Analytics: https://docs.microsoft.com/en-us/azure/stream-analytics/
+- Azure Logic Apps: https://docs.microsoft.com/en-us/azure/logic-apps/
+- Azure Event Grid: https://docs.microsoft.com/en-us/azure/event-grid/
+- Azure Service Bus: https://docs.microsoft.com/en-us/azure/service-bus/
+- Azure API Management: https://docs.microsoft.com/en-us/azure/api-management/
+- Azure DevOps: https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops
+- Azure Machine Learning: https://docs.microsoft.com/en-us/azure/machine-learning/
+- Azure Cognitive Services: https://docs.microsoft.com/en-us/azure/cognitive-services/welcome
