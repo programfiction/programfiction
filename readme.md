@@ -3,14 +3,12 @@
 👋 Hi, I’m Ramakrushna 
 
 ***
-A results-driven, articulate and analytical person who can think “out of the box”. Strong in design and problem solving skills. Expert in Microsoft technologies
-
----
 - 📫 How to reach me 
   - Mail : ram2mishra@gmail.com
   - Blog : [Ramakrushna Mishra](http://iamramakrushna.blogspot.com/)
   - Linked in : [Ramakrushna Mishra](https://www.linkedin.com/in/iamramakrushna/)
   - Resume/ Profile: [fullstack .net consultant resume](https://github.com/programfiction/programfiction/blob/master/10_netfullstack_Resume_Ramakrushna.docx)
+---
 - My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
 - My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
 - My ideas on `C#` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/CSharpCodeReview.md)
