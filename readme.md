@@ -1,7 +1,6 @@
 # PROGRAMFICTION
 ***
 👋 Hi, I’m Ramakrushna 
-
 ***
 - 📫 How to reach me 
   - Mail : ram2mishra@gmail.com
@@ -9,6 +8,7 @@
   - Linked in : [Ramakrushna Mishra](https://www.linkedin.com/in/iamramakrushna/)
   - Resume/ Profile: [fullstack .net consultant resume](https://github.com/programfiction/programfiction/blob/master/10_netfullstack_Resume_Ramakrushna.docx)
 ---
+### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER
 - My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
 - My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
 - My ideas on `C#` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/CSharpCodeReview.md)
@@ -26,6 +26,7 @@
     | Succession planning project for any organization | [click here](https://github.com/programfiction/programfiction/blob/master/SuccessionPlanning.md) |
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=programfiction&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)
 
-By : `Ram`
-{% raw %}{% seo %}{% endraw %}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programfiction)](https://github.com/programfiction/)
