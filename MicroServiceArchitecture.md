@@ -1,7 +1,7 @@
 # Microservice architecture to make applications scalable & fail safe.
 ---
 
-![ServerLessApp]()
+![ServerLessApp](https://github.com/programfiction/FictionShoppingCart/blob/main/Untitled%20Diagram.png)
 
 ---
 ### Overview
@@ -19,7 +19,7 @@
     * Identity Server
     * Service Bus Azure
     * Microservice Communication
-    * Gateway Ocelot
+    * Gateway Ocelot/ Azre Gateway
     * Best Practices guidelines
 * Tools needed:
     * Visual studio code
