@@ -5,9 +5,7 @@
 - 👋 Hi, I’m Ramakrushna :
 - 📫 How to reach me 
   - Mail : ram2mishra@gmail.com
-  - Resume/ Profile: [fullstack .net consultant resume](https://github.com/programfiction/programfiction/blob/master/10_netfullstack_Resume_Ramakrushna.docx)
-
-
+ 
 ---
 
 ### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER
