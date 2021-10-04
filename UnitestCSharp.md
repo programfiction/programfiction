@@ -1,4 +1,26 @@
+# What is TDD ?
+Test driven development. 
 # Unit testing Guidelines for .net5(c#)
+Unit testing is a subset of Test driven development. It’s a step need to add in software development process to improve testability of code. Unit testing makes application simple, testable & maintain. I will suggest an approach that makes unit testing effective.
+ - Writing testable code (to write code that is easy to test).
+ - Writing effective unit test cases to test the code.
+## Benefits of unit testing
+- Reduces bugs
+- Reduce cost
+- Improves design
+- Documentation 
+- Eliminate fear to change in code
+## How to write testable code
+- Create seams in code 
+- Simplify construction
+- Program to interface
+- Work with dependencies 
+- Decouple from global state
+- Maintain single responsibility 
+- Use Test driven development
+
+	
+
 
 ***
  [Read More on Microsoft Site](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
