@@ -5,6 +5,7 @@
 
 ---
 ### Overview
+ * Navigate to E-commerce Application [Click here](https://github.com/programfiction/FictionShoppingCart)
  * Microservices are independently deployed and allow for more team autonomy.
     * Microservices has its own technology stack, inclusive of data management tool.
     * Communication between one another using Rest APIs event streaming & message brokers.
