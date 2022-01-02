@@ -9,6 +9,7 @@
 ---
 
 ### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER
+- `ABP framework` for designing web scalable web applications with microservices: [Click here](https://github.com/programfiction/programfiction/blob/master/ABPDetails.md)
 - My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
 - My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
 - My ideas on `C#` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/CSharpCodeReview.md)
