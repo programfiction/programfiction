@@ -17,3 +17,5 @@ To be able to run the solution from source code, following tools should be insta
 - MongoDB 4.0+
 - ElasticSearch 6.6+
 - Kibana 6.6+ (optional, recommended to show logs)
+- Visual studio 2019/ latest
+- SDK .Net5 frameworK.
