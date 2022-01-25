@@ -5,7 +5,8 @@
 - 👋 Hi, I’m Ramakrushna :
 - 📫 How to reach me 
   - Mail : ram2mishra@gmail.com
- 
+
+Visitors: [image title](https://rushter.com/counter.svg)
 ---
 
 ### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER
