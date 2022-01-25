@@ -6,7 +6,7 @@
 - 📫 How to reach me 
   - Mail : ram2mishra@gmail.com
 
-Visitors: [image title](https://rushter.com/counter.svg)
+ Views : [![Visits Badge](https://badges.pufler.dev/visits/programfiction/programfiction)](https://github.com/programfiction)
 ---
 
 ### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER
