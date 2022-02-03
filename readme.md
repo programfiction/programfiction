@@ -35,4 +35,4 @@ PROGRAMFICTION [![Visits Badge](https://badges.pufler.dev/visits/programfiction/
 [![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programfiction)](https://github.com/programfiction/)
-![Profile](https://github.com/programfiction/programfiction/blob/master/1.PNG)
+![Profile](https://github.com/programfiction/programfiction/blob/master/MyProfile.jpg)
