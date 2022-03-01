@@ -1,12 +1,9 @@
 
 ##PROGRAMFICTION [![Visits Badge](https://badges.pufler.dev/visits/programfiction/programfiction)](https://github.com/programfiction)
-
 ---
-
 ![Benner](/Banner.png)
 
 ---
-[<img src='/Dev.gif' alt='dev' height='200' style="float: right;">](https://www.instagram.com/irammishra/)
 - 👋 Hi, In my 10 glorious years of experiance I got a chance to contribute to various Product Development roles in Banking, Human Resource, Avionices, payroll, APM.
 - Experianced in Agile Methodologies
 - Love to read books
@@ -42,3 +39,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=programfiction&show_icons=true)[![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programfiction)](https://github.com/programfiction/)
 ![Profile](/MyProfile.jpg)
+
+
+    
