@@ -1,12 +1,12 @@
 
-PROGRAMFICTION [![Visits Badge](https://badges.pufler.dev/visits/programfiction/programfiction)](https://github.com/programfiction)
+##PROGRAMFICTION [![Visits Badge](https://badges.pufler.dev/visits/programfiction/programfiction)](https://github.com/programfiction)
 
 ---
 
-![Benner](https://github.com/programfiction/programfiction/blob/master/Banner.png)
+![Benner](/Banner.png)
 
 ---
-
+[<img src='/Dev.gif' alt='dev' height='200' style="float: right;">](https://www.instagram.com/irammishra/)
 - 👋 Hi, In my 10 glorious years of experiance I got a chance to contribute to various Product Development roles in Banking, Human Resource, Avionices, payroll, APM.
 - Experianced in Agile Methodologies
 - Love to read books
@@ -17,7 +17,7 @@ PROGRAMFICTION [![Visits Badge](https://badges.pufler.dev/visits/programfiction/
 
 ---
 
-### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER
+### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER /
 - `ABP framework` for designing web scalable web applications with microservices: [Click here](https://github.com/programfiction/programfiction/blob/master/ABPDetails.md)
 - My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
 - My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
@@ -39,8 +39,6 @@ PROGRAMFICTION [![Visits Badge](https://badges.pufler.dev/visits/programfiction/
     | TDD using Selenium Xunit .NET5 | [click here](https://github.com/programfiction/FictionTestableCode) |
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=programfiction&show_icons=true)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=programfiction&show_icons=true)[![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programfiction)](https://github.com/programfiction/)
-![Profile](https://github.com/programfiction/programfiction/blob/master/MyProfile.jpg)
+![Profile](/MyProfile.jpg)
