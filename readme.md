@@ -4,8 +4,8 @@
 ![Benner](/Banner.png)
 
 ---
-- 👋 Hi, In my 10 glorious years of experiance I got a chance to contribute to various Product Development roles in Banking, Human Resource, Avionices, payroll, APM.
-- Experianced in Agile Methodologies
+- 👋 Hi, In my 10 glorious years of experience I got a chance to contribute to various Product Development roles in Banking, Human Resource, Avionics, payroll, APM.
+- Experienced in Agile Methodologies
 - Love to read books
 - If I could have one food : Biryani
 - 📫 How to reach me 
