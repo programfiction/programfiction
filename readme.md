@@ -15,6 +15,7 @@
 ---
 
 ### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER /
+- `Az-900` exam prep: [Click here](/az900/az900.md)
 - `ABP framework` for designing web scalable web applications with microservices: [Click here](https://github.com/programfiction/programfiction/blob/master/ABPDetails.md)
 - My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
 - My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
