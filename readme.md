@@ -14,7 +14,8 @@
 
 ---
 
-### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER /
+### Skills: C# / ANGULAR / JS / HTML / CSS / .NET 5 / AZURE/ SQL SERVER / MSBI / SSIS / SSRS
+- `MSBI` implementation with project: [Click here](/msbi/msbi.md)
 - `Az-900` exam prep: [Click here](/az900/az900.md)
 - `ABP framework` for designing web scalable web applications with microservices: [Click here](https://github.com/programfiction/programfiction/blob/master/ABPDetails.md)
 - My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
