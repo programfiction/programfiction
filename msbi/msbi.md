@@ -10,7 +10,7 @@ Business intelligence (BI) tools are types of application software that collect 
 MSBI is a combination of `SSIS, SSAS & SSRS`.
 
 ##### Software installation sequence due to dependencies
-![Concept installation](../msbi/install.png)
+![Concept installation](/msbi/install.PNG)
 
 Notes:
 
