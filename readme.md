@@ -36,6 +36,8 @@
     | Succession planning project for any organization | [click here](https://github.com/programfiction/programfiction/blob/master/SuccessionPlanning.md) |
     | ECommerce application using Microservice architecture | [click here](https://github.com/programfiction/FictionShoppingCart/blob/main/README.md) |
     | TDD using Selenium Xunit .NET5 | [click here](https://github.com/programfiction/FictionTestableCode) |
+     | SSIS sample using SSDT 2017 | [click here](https://github.com/programfiction/SSIS) |
+     | Text to QR converter in Angular(upcomming) | [click here](https://github.com/programfiction/TestToQR) |
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=programfiction&show_icons=true)[![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)
