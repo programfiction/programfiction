@@ -7,7 +7,7 @@ a quality code review. Feel free to add any specific guidelines that you think i
 I have worked in various teams settings and work environments. Many times I have been invited to perform a code review for a friend who is not part of my team or rather
 I am not part of their team. But what I admire and appreciate here is the fact that someone reached out to another dev/architect in case their team's developers is
 either not available or busy with critical production issues. Such a mindset empowers the team to deliver the best written code. 
-- Use of `SonarLint` (is an IDE extension) that helps you detect and fix quality issues as you write code. Lke a spell checker, SonalLint squiggles  flaws so that
+- Use of `SonarLint` (is an IDE extension) that helps you detect and fix quality issues as you write code. Lke a spell checker, SonarLint squiggles  flaws so that
   they can be fixed before committing code
   - Read more: [Sonar Lint addon Vs2019 ](https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2019)
   - Sonar Analyzer: `C#` nuget package manager

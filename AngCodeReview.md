@@ -21,12 +21,12 @@
     }
     ```
 - Do not hardcode text in templates. Move all text to lang files and use language keys and language pipe
-    - Avoid using string concatination use lang keys
+    - Avoid using string concatenation use lang keys
     ```yaml
     <div>
     Contact Address <===== do not use hardcode txt
     ---
-    {{'profile.ADDRESS_CONTACT_INFO' | lang }} <====== Use keys and langulage pipe
+    {{'profile.ADDRESS_CONTACT_INFO' | lang }} <====== Use keys and language pipe
     </div>
     ```
  - Do not hardcode text in typescript/javascript files. Use lang file like above example
@@ -64,13 +64,13 @@
     </div>
     ---
     <div> <===== use class present in file.
-    <span class="PaddinLeft3">I am a Mentor</span>
+    <span class="PaddingLeft3">I am a Mentor</span>
     <spanclass="classOfBreakline">I am Writing Good & standard code </span>  
     </div>
     ```
 - Use proper selector name for components w.r.t. to feature in project in place of generic selector
-    - It's best practic to create components responsive.
-    - Create component with single responsiblity
+    - It's best practice to create components responsive.
+    - Create component with single responsibility
     ```yaml
     @Component({
     selector: 'app-demoselector'   <====== Selector name should not be generic it should be specific
@@ -82,7 +82,7 @@
     ```
 - Use Project defined SASS variables for color & padding etc. DO not use hardcode css value.
     - Do not add hardcoded width on template or Css. use Bootstrap classes.
-    - Do not manipulate any scss veriable 
+    - Do not manipulate any scss variable 
     ```yaml
     .MyClassForDiv{
     background-color: #000000;              <=======do not use hardcoded color
@@ -109,7 +109,7 @@
     ```yaml
     @Injectabl()
     export class LearningMyService {
-    provate notification: Notifications[];    <====== notifications will be shared between components. 
+    private notification: Notifications[];    <====== notifications will be shared between components. 
     }
     //some code    
     ```
@@ -125,11 +125,11 @@
     //some code
     }
     ```  
- - No need to use cathError if you are not doing anying with it. Error will be thrown autometically. 
+ - No need to use cathError if you are not doing anything with it. Error will be thrown automatically. 
     ```yaml
     Save(){
     //some code 
-    .catch((errorObj)) => throw errorObj;               <====== Avoid catching and rethrowing 
+    .catch((errorObj)) => throw errorObj;               <====== Avoid catching and re-throwing 
     }
     ```  
  - Import lodash functions and use it in every component. Do not use Global

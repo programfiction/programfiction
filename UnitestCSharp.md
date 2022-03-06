@@ -42,7 +42,7 @@ A high code coverage percentage is not an indicator of success, nor does it impl
 - Don't print anything out in in unit tests.
 - Don't skip unit tests instead remove it from source code.
 
-## Some more best practics:
+## Some more best practices:
 - Unit tests should be readable.
 No one wants to spend time trying to figure out what is that your test does. Ideally, this should be clear just by looking at the test name.
 

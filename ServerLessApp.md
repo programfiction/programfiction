@@ -7,15 +7,15 @@ Serverless Application with Azure for small organization cost effective
 ---
 ### Requirements
 
-- Azure official price calculatod [Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
-- Very basic understanding of the microsoft azure would be adavntageous.
+- Azure official price calculated [Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+- Very basic understanding of the microsoft azure would be advantageous.
 - A free or paid subscription to MS Azure
 - Building serverless application 
-    - `Azure Function`: Run code on demand that scales autometically
+    - `Azure Function`: Run code on demand that scales automatically
     - `API Management`: Create and publish secure API
     - `Cosmos DB`: For storing and retrieving data at scale.
     - `Azure ADB2C` : For managing users, account creation and logins securely
-    - `Azure Blob Storeage`: Host SPA by enabling static website hosting.
+    - `Azure Blob Storage`: Host SPA by enabling static website hosting.
 
 ### Links to docs of serverless services:
 

@@ -1,7 +1,7 @@
 
 ## PROGRAMFICTION [![Visits Badge](https://badges.pufler.dev/visits/programfiction/programfiction)](https://github.com/programfiction)
 ---
-![Benner](/Banner.png)
+![Banner](/Banner.png)
 
 ---
 - 👋 Hi, In my 10 glorious years of experience I got a chance to contribute to various Product Development roles in Banking, Human Resource, Avionics, payroll, APM.
@@ -21,7 +21,7 @@
 - My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
 - My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
 - My ideas on `C#` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/CSharpCodeReview.md)
-- Ideas on `TDD- Test driven developement` .net 5(c#) applications: [click here](https://github.com/programfiction/programfiction/blob/master/UnitestCSharp.md)
+- Ideas on `TDD- Test driven development` .net 5(c#) applications: [click here](https://github.com/programfiction/programfiction/blob/master/UnitestCSharp.md)
 - Ideas on `Unit testing` angular 11 applications: [click here](https://github.com/programfiction/programfiction/blob/master/UnitestAngular.md)
 - Approach for `server less` website in `Azure` : [click here](https://github.com/programfiction/programfiction/blob/master/ServerLessApp.md)
 - My ideas on `Microservice architecture` : [click here](https://github.com/programfiction/programfiction/blob/master/MicroServiceArchitecture.md)
@@ -30,14 +30,19 @@
 
     | Topics | Link   |
     | ---   | --- | 
-    | Code editor for c# | * [codeinterview.io](https://codeinterview.io/)<br />* [ide geeks for geeks](https://ide.geeksforgeeks.org/) <br />* [Codility](https://app.codility.com/)|
+    | Online Code editor for c# |  [codeinterview.io](https://codeinterview.io/) |  
+    | Online ide geeks for geeks |[click here](https://ide.geeksforgeeks.org/) | 
+    | Online Codility editor for c#|[app.codility.com](https://app.codility.com/)|
+    | Code spell checker addon to vs code | [click here](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
+    | ---   | --- | 
     | Datastructure and Interview Questions | [Click here](https://github.com/programfiction/FictionSnippets) |
     | Alumni Application with c#, .net5, Angular 11, SqlLite | [click here](https://github.com/programfiction/Alumni-App) |
     | Succession planning project for any organization | [click here](https://github.com/programfiction/programfiction/blob/master/SuccessionPlanning.md) |
     | ECommerce application using Microservice architecture | [click here](https://github.com/programfiction/FictionShoppingCart/blob/main/README.md) |
     | TDD using Selenium Xunit .NET5 | [click here](https://github.com/programfiction/FictionTestableCode) |
      | SSIS sample using SSDT 2017 | [click here](https://github.com/programfiction/SSIS) |
-     | Text to QR converter in Angular(upcomming) | [click here](https://github.com/programfiction/TestToQR) |
+     | Text to QR converter in Angular(upcoming) | [click here](https://github.com/programfiction/TestToQR) |
+     
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=programfiction&show_icons=true)[![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)

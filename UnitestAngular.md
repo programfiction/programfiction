@@ -7,7 +7,7 @@
 
   - For example, suppose you want the code base to have a minimum of 80% code coverage. To enable this, open the Karma test platform configuration file, karma.conf.js, and add the check property in the coverageReporter: key.
 - Read shallow documentation before you start writing unit test cases for your project [Shallow Documentation](https://getsaf.github.io/shallow-render/)
-- Avoid calling `instance.SomeMethod()` directly. Use component based testing in place of creating all testcases at one place.
+- Avoid calling `instance.SomeMethod()` directly. Use component based testing in place of creating all test cases at one place.
 - All services & dependencies in a component testing need to be mocked. Never call real services.
 - All external `e.g. Http` calls are also need to be mocked. Never call real services from external site also
 - When writing unit test cases related to `date, moment` make sure unit test passes in every date/time they run.

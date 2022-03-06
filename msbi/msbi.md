@@ -17,7 +17,7 @@ Notes:
 - Sequence is very imp.
 - Avoid installing 2019 version
 - Sql server installation in custom mode with ssis and ssas and ssrs enabled
- - Need to install 2 instalnces if you need tabular and multidimentional.
+ - Need to install 2 instances if you need tabular and multidimensional.
 
  ##### Project Code SSIS
 
@@ -28,4 +28,4 @@ click on link to goto code [Sample Project](https://github.com/programfiction/SS
  ![Concept Deployment](../msbi/Deployment.png)
 
  ##### Project code SSAS
- Creating SSAS cube. forcasting application or heavy analysis application is ones where we can implement cube with SSAS. 
+ Creating SSAS cube. forecasting application or heavy analysis application is ones where we can implement cube with SSAS. 

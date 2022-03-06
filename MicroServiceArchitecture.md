@@ -11,7 +11,7 @@
     * Communication between one another using Rest APIs event streaming & message brokers.
  * Microservices are independently scalable.
  * Microservices reduce downtime through fault isolation
- * The smaller codebase enables teams to more easily understand the codem make it simpler to maintain.
+ * The smaller codebase enables teams to more easily understand the code make it simpler to maintain.
  * Used tech & guidelines :
     * .Net APIs
         * .Net 6 core
@@ -20,7 +20,7 @@
     * Identity Server
     * Service Bus Azure
     * Microservice Communication
-    * Gateway Ocelot/ Azre Gateway
+    * Gateway Ocelot/ Azure Gateway
     * Best Practices guidelines
 * Tools needed:
     * Visual studio code
