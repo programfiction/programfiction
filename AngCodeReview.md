@@ -107,7 +107,7 @@
     - Avoid having class variables inside service unless you are using as shared variables between different component instances. 
     - Reason : Angular creates only one instance of services by default.
     ```yaml
-    @Injectabl()
+    @injectable()
     export class LearningMyService {
     private notification: Notifications[];    <====== notifications will be shared between components. 
     }
@@ -117,7 +117,7 @@
     ```yaml
     <success-button [disabled]="IsDisabledFunction()"     <===== avoid calling this kind of function. Use variables 
                     (click)="ShowFunction()"              <====== Good to use
-                    *ngIf="showVariable"                  <====== example of use class variables inplace of function
+                    *ngIf="showVariable"                  <====== example of use class variables in place of function
     ```
  - Avoid overriding library defined component styles
     ```yaml
