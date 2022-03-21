@@ -1,6 +1,8 @@
 # What is TDD ?
 Test-driven development is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. 
 * Navigate to TestableCode app: [Click here](https://github.com/programfiction/FictionTestableCode)
+
+![TDD](./TDD.png)
 # Unit testing Guidelines for .net5(c#)
 Unit testing is a subset of Test driven development. It’s a step need to add in software development process to improve testability of code. Unit testing makes application simple, testable & maintain. I will suggest an approach that makes unit testing effective.
  - Writing testable code (to write code that is easy to test).
