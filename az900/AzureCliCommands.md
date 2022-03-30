@@ -47,5 +47,16 @@
 
       az webapp create --resource-group programfiction --plan TestAppSvcPlan --name programfictiontestapp
 
+   # Create Azure VM
 
+      az vm create \
+            --resource-group myResourceGroup \
+            --name myVM \
+            --image Win2019Datacenter \
+            --public-ip-sku Standard \
+            --admin-username azureuser 
+    # Open port for web traffic
+
+      az vm open-port --port 80 --resource-group myResourceGroup --name myVM
+      
    ```
