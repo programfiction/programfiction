@@ -4,7 +4,7 @@
 ![Banner](/Banner.png)
 
 ---
-- 👋 Hi, In my 10 glorious years of experience I got a chance to contribute to various Product Development roles in Banking, Human Resource, Avionics, payroll, APM.
+- 👋 Hi, In my 11.6 glorious years of experience I got a chance to contribute to various Product Development roles in Banking, Human Resource, Avionics, payroll, APM.
 - Experienced in Agile Methodologies
 - Love to read books
 - If I could have one food : Biryani
@@ -47,7 +47,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=programfiction&show_icons=true)[![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programfiction)](https://github.com/programfiction/)
-![Profile](/MyProfile.jpg)
+![Profile](/1.png)
 
 
     
