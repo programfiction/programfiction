@@ -1,5 +1,5 @@
 
-## PROGRAMFICTION (https://github.com/programfiction)
+## PROGRAMFICTION [![Visits Badge](https://badges.pufler.dev/visits/programfiction/programfiction)](https://github.com/programfiction)
 ---
 ![Banner](/Banner.png)
 
@@ -47,7 +47,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=programfiction&show_icons=true)[![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programfiction)](https://github.com/programfiction/)
-![Profile](/1.png)
+![Profile](/MyProfile.jpg)
 
 
     
