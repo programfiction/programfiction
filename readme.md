@@ -1,5 +1,5 @@
 
-## PROGRAMFICTION 
+## PROGRAMFICTION ![Profile Views](https://komarev.com/ghpvc/?username=programfiction)
 ---
 ![Banner](/Banner.png)
 
