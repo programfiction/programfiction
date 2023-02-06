@@ -1,5 +1,5 @@
 
-## PROGRAMFICTION [![Visits Badge](https://badges.pufler.dev/visits/programfiction/programfiction)](https://github.com/programfiction)
+## PROGRAMFICTION (https://github.com/programfiction)
 ---
 ![Banner](/Banner.png)
 
