@@ -26,10 +26,10 @@
 - `Az-900` exam prep: [Click here](/az900/az900.md)
 - `ABP framework` for designing web scalable web applications with microservices: [Click here](https://github.com/programfiction/programfiction/blob/master/ABPDetails.md)
 
-#####DESIGN PATTERNS 
+##### DESIGN PATTERNS 
 - `Repository Design Pattern` with Generic repository & Specification :  [click here](DesignGenerics.md) 
 
-#####CODE SNIPPETS
+##### CODE SNIPPETS
   - Datastructure and Interview Questions : [Click here](https://github.com/programfiction/FictionSnippets)
   - Alumni Application with c#, .net5, Angular 11, SqlLite : [click here](https://github.com/programfiction/Alumni-App) 
   - Succession planning project for any organization : [click here](https://github.com/programfiction/programfiction/blob/master/SuccessionPlanning.md) 
@@ -38,7 +38,7 @@
   - SSIS sample using SSDT 2017 : [click here](https://github.com/programfiction/SSIS) 
   - Text to QR converter in Angular(upcoming) : [click here](https://github.com/programfiction/TestToQR) 
 
-#####ONLINE DEBUGGERS
+##### ONLINE DEBUGGERS
   - Online Code editor for c#  : [codeinterview.io](https://codeinterview.io/)   
   - Online ide geeks for geeks : [click here](https://ide.geeksforgeeks.org/) 
   - Online Codility editor for c# : [app.codility.com](https://app.codility.com/)

@@ -1,7 +1,7 @@
 ### Generic Repository(With specification pattern)
 ---
 
-#####Advantages
+##### Advantages
 - Generics been around since C# 2.0 from year 2022 
 - help avoid duplicate code
 - Type safety
@@ -9,10 +9,10 @@
 - Returns an IQueryable<T>
 - Specification can have meaningful name.
 
-#####Disadvantages
+##### Disadvantages
 - XYZ
 
-######Normal Repository 
+###### Normal Repository 
 ```
 //In repository class
 public StoreContext(DbContextOptions<StoreContext> options) : base(options)
@@ -35,7 +35,7 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
     }
 
 ```
-######Using generic Repository
+###### Using generic Repository
 ```
 //BaseEntity 
  public class BaseEntity
