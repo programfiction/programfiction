@@ -14,6 +14,7 @@
 
 ---
 
+- Use of Swagger to document public facing APIs : [Click here](#)
 - My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
 - My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
 - My ideas on `C#` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/CSharpCodeReview.md)
