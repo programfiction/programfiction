@@ -14,21 +14,29 @@
 
 ---
 
-- Use of Swagger to document public facing APIs : [Click here](#)
-- My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
-- My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
+##### Dotnet world
 - My ideas on `C#` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/CSharpCodeReview.md)
+- Use of Swagger to document public facing APIs : [Click here](#) - Coming soon
+- My new ideas on `Coding standards` : [Click here](https://github.com/programfiction/programfiction/blob/master/BriefCodeReview.md) 
 - Ideas on `TDD- Test driven development` .net 5(c#) applications: [click here](https://github.com/programfiction/programfiction/blob/master/UnitestCSharp.md)
-- Ideas on `Unit testing` angular 11 applications: [click here](https://github.com/programfiction/programfiction/blob/master/UnitestAngular.md)
 - Approach for `server less` website in `Azure` : [click here](https://github.com/programfiction/programfiction/blob/master/ServerLessApp.md)
 - My ideas on `Microservice architecture` : [click here](https://github.com/programfiction/programfiction/blob/master/MicroServiceArchitecture.md)
-- Approach for `data science` with Microsoft technologies : [click here](https://github.com/programfiction/programfiction/blob/master/DataScience.md)
 - `MSBI` implementation with project: [Click here](/msbi/msbi.md)
 - `Az-900` exam prep: [Click here](/az900/az900.md)
 - `ABP framework` for designing web scalable web applications with microservices: [Click here](https://github.com/programfiction/programfiction/blob/master/ABPDetails.md)
 
+##### Angular world
+- My ideas on `Angular` code review : [Click here](https://github.com/programfiction/programfiction/blob/master/AngCodeReview.md)
+- Ideas on `Unit testing` angular 11 applications: [click here](https://github.com/programfiction/programfiction/blob/master/UnitestAngular.md)
+- Run angular code on `https with certificate` : [click here](#)-coming soon
+- Simple explanation on `Observables` in Angular with `RxJs` : [click here](#)-coming soon
+
 ##### DESIGN PATTERNS 
 - `Repository Design Pattern` with Generic repository & Specification :  [click here](DesignGenerics.md) 
+
+##### Others
+
+- Approach for `data science` with Microsoft technologies : [click here](https://github.com/programfiction/programfiction/blob/master/DataScience.md)
 
 ##### CODE SNIPPETS
   - Datastructure and Interview Questions : [Click here](https://github.com/programfiction/FictionSnippets)
