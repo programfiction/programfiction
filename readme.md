@@ -1,7 +1,7 @@
 
 ## PROGRAMFICTION ![Profile Views](https://komarev.com/ghpvc/?username=programfiction)
 ---
-- 👋 Hi, In my 11.6 glorious years of experience I got a chance to contribute to various Product Development roles in Banking, Human Resource, Avionics, payroll, APM.
+- 👋 Hi, ] I am an experienced Full Stack Developer, Leader, and Architect with over 12 years of hands-on experience in software development. Currently, I work as an AVP Senior Software Engineer at Wells Fargo, where I contribute in a team of 10 members on TDD platform. I am a Full Stack Developer with expertise in C#, .NET 5, Asp.Net Core, Angular11, Web Services, and API 2. Additionally, I have a good understanding of Entity Framework and LINQ. I am also an Azure Fundamentals (AZ900) certified Cloud Developer, with 5 years of experience in Azure development and Cloud computing. My domain knowledge includes HCM, Banking, Avionics, and APM clients. I have experience working with MSSQLServer, Oracle, SQL Lite, and Azure SQL to store data. I have experience on Power BI/SSDT/SSRS reporting, and I have worked on Application Insights & Security with APPDYNAMICS, Sonar lint & Splunk. Additionally, I have knowledge of No SQL databases like Cosmos DB & Mongo DB. I have experience working on large-scale applications in the Banking domain. I have received many awards for my dedication and hard work, including Associate of Quarter awards. I am PMP certified and have completed 35 hours of mandatory PMP training. I recently led a team of five members till the final (top 3) in a hackathon program for Digital Will document creation.
 - Experienced in Agile Methodologies
 - Love to read books
 - If I could have one food : Biryani
