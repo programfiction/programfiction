@@ -55,7 +55,15 @@
   
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=programfiction&show_icons=true)[![trophy](https://github-profile-trophy.vercel.app/?username=programfiction)](https://github.com/programfiction)
+
+Completed books | | |
+--- | --- | ---
+![Win](/Books/winfriends.JPG) |  ![Start](/Books/Startwith.JPG) | ![Atomic](/Books/Atomic.JPG) |
+![Yes](/Books/youcan.JPG) |  ![Sher](/Books/sherlock.JPG) | ![Leaders](/Books/leadersEat.JPG) |
+![Yamato](/Books/requiem.JPG) |  ![Grow](/Books/growrich.JPG) | ![ikigai](/Books/ikigai.JPG) |
+![what](/Books/whatgot.JPG) |  ![what to say](/Books/whattosay.JPG) | ![diffi](/Books/difficult.JPG) |
+![infinite](/Books/infinite.JPG) |  ![lifes](/Books/Lifes.JPG) | ![rich](/Books/richdad.JPG) |
+
 
 ![Profile](/MyProfile.jpg)
 
