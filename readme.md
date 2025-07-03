@@ -59,10 +59,10 @@
 
 Reading.... | | |
 --- | --- | ---
-![Win](/Books/s.jpg) |  ![Start](/Books/s.JPG) | ![Atomic](/Books/LL.JPG) |
-![Win](/Books/DO.jpg) |  ![Start](/Books/talk.JPG) | ![Atomic](/Books/thecon.JPG) |
+![s](/Books/s.jpg) |  ![s](/Books/s.jpg) | ![LL](/Books/LL.jpg) |
+![DO](/Books/DO.jpg) |  ![talk](/Books/talk.jpg) | ![thecon](/Books/thecon.jpg) |
 Completed books | | |
-![Win](/Books/Rich.jpeg) |  ![Start](/Books/outliers.JPG) | ![Atomic](/Books/kitne.JPG) |
+![Rich](/Books/Rich.jpeg) |  ![outliers](/Books/outliers.jpg) | ![kitne](/Books/kitne2.jpg) |
 ![Win](/Books/winfriends.JPG) |  ![Start](/Books/Startwith.JPG) | ![Atomic](/Books/Atomic.JPG) |
 ![Yes](/Books/youcan.JPG) |  ![Sher](/Books/sherlock.JPG) | ![Leaders](/Books/leadersEat.JPG) |
 ![Yamato](/Books/requiem.JPG) |  ![Grow](/Books/growrich.JPG) | ![ikigai](/Books/ikigai.JPG) |
