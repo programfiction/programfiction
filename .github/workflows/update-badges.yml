@@ -12,7 +12,7 @@ on:
         contents: write
       steps:
         - name: Update Badges
-          uses: pemtajo/badge-readme@main
+          uses: programfiction/badge-readme@main
           with:
             CREDLY_USER: ${{ github.actor }} # Uses your GitHub username
             NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
