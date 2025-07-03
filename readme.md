@@ -76,17 +76,15 @@ Avid book reader and a Biryani enthusiast 🍽️
 ---
 
 
-Reading.... | | |
---- | --- | ---
-![s](/Books/s.jpg) |  ![s](/Books/s.jpg) | ![LL](/Books/ll.jpg) |
-![DO](/Books/DO.jpg) |  ![talk](/Books/talk.jpg) | ![thecon](/Books/thecon.jpg) |
-Completed books | | |
-![Rich](/Books/Rich.jpeg) |  ![outliers](/Books/outliers.jpg) | ![kitne](/Books/kitne2.JPG) |
-![Win](/Books/winfriends.JPG) |  ![Start](/Books/Startwith.JPG) | ![Atomic](/Books/Atomic.JPG) |
-![Yes](/Books/youcan.JPG) |  ![Sher](/Books/sherlock.JPG) | ![Leaders](/Books/leadersEat.JPG) |
-![Yamato](/Books/requiem.JPG) |  ![Grow](/Books/growrich.JPG) | ![ikigai](/Books/ikigai.JPG) |
-![what](/Books/whatgot.JPG) |  ![what to say](/Books/whattosay.JPG) | ![diffi](/Books/difficult.JPG) |
-![infinite](/Books/infinite.JPG) |  ![lifes](/Books/Lifes.JPG) | ![rich](/Books/richdad.JPG) |
+Reading.... | | | |
+--- | --- | --- | ---
+ ![LL](/Books/ll.jpg) | ![DO](/Books/DO.jpg) | ![talk](/Books/talk.jpg) | ![thecon](/Books/thecon.jpg) |
+Completed books | | | |
+![Rich](/Books/Rich.jpeg) |  ![outliers](/Books/outliers.jpg) | ![kitne](/Books/kitne2.JPG) | ![Atomic](/Books/Atomic.JPG) |
+![Yes](/Books/youcan.JPG) |  ![Sher](/Books/sherlock.JPG) | ![Leaders](/Books/leadersEat.JPG) | ![infinite](/Books/infinite.JPG) |
+![Yamato](/Books/requiem.JPG) |  ![Grow](/Books/growrich.JPG) | ![ikigai](/Books/ikigai.JPG) | ![lifes](/Books/Lifes.JPG) | 
+![what](/Books/whatgot.JPG) |  ![what to say](/Books/whattosay.JPG) | ![diffi](/Books/difficult.JPG) | ![rich](/Books/richdad.JPG) |
+![Win](/Books/winfriends.JPG) |  ![Start](/Books/Startwith.JPG) | ![s](/Books/s.jpg) |  ![s](/Books/s.jpg) | 
 
 
 ![Profile](/MyProfile.jpg)
