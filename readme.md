@@ -1,9 +1,5 @@
 
 ## PROGRAMFICTION ![Profile Views](https://komarev.com/ghpvc/?username=programfiction)
----
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
 
 Hi, I am a seasoned Lead Software Engineer, Full Stack Developer, and Solution Architect with over 14 years of hands-on experience designing and developing scalable, enterprise-grade applications. Currently working as an AVP Senior Software Engineer at Wells Fargo, I lead and contribute to a 10-member Agile team, playing a key role in developing a Test-Driven Development (TDD) platform within the Banking domain.
 
