@@ -1,12 +1,31 @@
 
 ## PROGRAMFICTION ![Profile Views](https://komarev.com/ghpvc/?username=programfiction)
 ---
-- 👋 Hi, I am an experienced Full Stack Developer, Leader, and Architect with over 14 years of hands-on experience in software development. Currently, I work as an AVP Senior Software Engineer at Wells Fargo, where I contribute in a team of 10 members on TDD platform. I am a Full Stack Developer with expertise in C#, .NET 5, Asp.Net Core, Angular11, Web Services, and API 2. Additionally, I have a good understanding of Entity Framework and LINQ. I am also an Azure Fundamentals (AZ900) certified Cloud Developer, with 5 years of experience in Azure development and Cloud computing. My domain knowledge includes HCM, Banking, Avionics, and APM clients. I have experience working with MSSQLServer, Oracle, SQL Lite, and Azure SQL to store data. I have experience on Power BI/SSDT/SSRS reporting, and I have worked on Application Insights & Security with APPDYNAMICS, Sonar lint & Splunk. Additionally, I have knowledge of No SQL databases like Cosmos DB & Mongo DB. I have experience working on large-scale applications in the Banking domain. I have received many awards for my dedication and hard work, including Associate of Quarter awards. I am PMP certified and have completed 35 hours of mandatory PMP training.
-- Experienced in Agile Methodologies
-- Love to read books
-- If I could have one food : Biryani
-- 📫 How to reach me (mail: ram2mishra@gmail.com)
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/programfiction)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamramakrushna/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ram2mishra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/irammishra/)  
+Hi, I am a seasoned Lead Software Engineer, Full Stack Developer, and Solution Architect with over 14 years of hands-on experience designing and developing scalable, enterprise-grade applications. Currently working as an AVP Senior Software Engineer at Wells Fargo, I lead and contribute to a 10-member Agile team, playing a key role in developing a Test-Driven Development (TDD) platform within the Banking domain.
+
+I specialize in .NET technologies (C#, .NET 5, ASP.NET Core) and modern front-end frameworks like Angular 16, with strong expertise in RESTful APIs, Web Services, Entity Framework, and LINQ. I am proficient with databases including MSSQLServer, Oracle, SQL Lite, Azure SQL, as well as NoSQL databases like Cosmos DB and MongoDB.
+
+I have 7+ years of experience in Azure Cloud Development and hold Microsoft AZ-204 and AZ-900 certifications. I have actively contributed to designing and deploying AI-based Proof of Concepts (POCs) and am currently exploring the integration of Generative AI (GenAI) into enterprise systems to enhance user productivity and operational intelligence.
+
+My domain exposure spans Banking, HCM, Avionics, and APM. I’ve also worked extensively on reporting and monitoring tools including Power BI, SSRS/SSDT, Application Insights, SonarLint, AppDynamics, and Splunk.
+
+I am a PMP-certified project manager (35 hours of mandatory training completed) and have received several accolades for my leadership and performance, including multiple Associate of the Quarter awards.
+
+##### Highlights:
+
+AZ-204 & AZ-900 Certified Cloud Developer
+
+Proficient in AI/ML concepts and Generative AI integrations
+
+Experienced in Agile/Scrum Methodologies and enterprise collaboration
+
+Passionate about leadership, mentoring, and innovation
+
+Avid book reader and a Biryani enthusiast 🍽️
+
+
+ ##### How to reach me
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](mailto:ramakrushna@live.com)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/programfiction) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamramakrushna/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ram2mishra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/irammishra/)  
 
 ---
 
