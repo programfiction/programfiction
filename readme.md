@@ -59,7 +59,8 @@ Avid book reader and a Biryani enthusiast 🍽️
 - My ideas on `Microservice architecture` : [click here](https://github.com/programfiction/programfiction/blob/master/MicroServiceArchitecture.md)
 - `MSBI` implementation with project: [Click here](/msbi/msbi.md)
 - `Az-900` exam prep: [Click here](/az900/az900.md)
-- `Az-204` exam prep: [Click here](/az204/az204.md) `New**`
+- `Az-204` exam prep: [Click here](/az204/az204.md)
+- `Az-305` exam prep: [Click here](/az305/az305.md) `New**`
 - `ABP framework` for designing web scalable web applications with microservices: [Click here](https://github.com/programfiction/programfiction/blob/master/ABPDetails.md)
 
 ##### Angular world
@@ -104,7 +105,7 @@ Completed books | | | |
 ![Win](/Books/winfriends.JPG) |  ![Start](/Books/Startwith.JPG) | ![s](/Books/s.jpg) |  ![s](/Books/s.jpg) | 
 
 
-![Profile](/MyProfile.jpg)
+![Profile](/MyProfile.PNG)
 
 
     
