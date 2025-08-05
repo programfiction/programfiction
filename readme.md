@@ -9,7 +9,7 @@ I have 7+ years of experience in Azure Cloud Development and hold Microsoft AZ-2
 
 My domain exposure spans Banking, HCM, Avionics, and APM. I’ve also worked extensively on reporting and monitoring tools including Power BI, SSRS/SSDT, Application Insights, SonarLint, AppDynamics, and Splunk.
 
-I am a PMP-certified project manager (35 hours of mandatory training completed) and have received several accolades for my leadership and performance, including multiple Associate of the Quarter awards.
+I am a aspiring to complete PMP certification(35 hours of mandatory training completed) and received several accolades for my leadership and performance, including multiple Associate of the Quarter awards in my last organization.
 
 ##### Highlights:
 
