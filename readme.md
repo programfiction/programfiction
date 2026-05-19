@@ -1,27 +1,33 @@
 
-## PROGRAMFICTION ![Profile Views](https://komarev.com/ghpvc/?username=programfiction)
+## PROGRAMFICTION ![Profile Views](https://komarev.com/ghpvc/?username=programfiction&color=blue&style=for-the-badge)
 
-Hi, I am a seasoned Lead Software Engineer, Full Stack Developer, and Solution Architect with over 14 years of hands-on experience designing and developing scalable, enterprise-grade applications. I lead and contribute to a 10-member Agile team, playing a key role in developing a Test-Driven Development (TDD) platform within the Banking domain.
 
-I specialize in .NET technologies (C#, .NET 5, ASP.NET Core) and modern front-end frameworks like Angular 16, with strong expertise in RESTful APIs, Web Services, Entity Framework, and LINQ. I am proficient with databases including MSSQLServer, Oracle, SQL Lite, Azure SQL, as well as NoSQL databases like Cosmos DB and MongoDB.
+Hi, I’m Ramakrushna, a seasoned Lead Software Engineer, Solution Architect with 14+ years of experience building scalable, enterprise-grade applications. As an ENTJ-A (Commander), I thrive on strategy, efficiency, and turning ambitious ideas into reality.
 
-I have 7+ years of experience in Azure Cloud Development and hold Microsoft AZ-204 and AZ-900 certifications. I have actively contributed to designing and deploying AI-based Proof of Concepts (POCs) and am currently exploring the integration of Generative AI (GenAI) into enterprise systems to enhance user productivity and operational intelligence.
+I currently lead and contribute to a 10-member Agile team, playing a pivotal role in designing a Business-Driven Development (BDD) platform in the Banking domain. My leadership style emphasizes clarity, decisiveness, and future-focused innovation, inspiring teams to deliver measurable impact.
 
-My domain exposure spans Banking, HCM, Avionics, and APM. I’ve also worked extensively on reporting and monitoring tools including Power BI, SSRS/SSDT, Application Insights, SonarLint, AppDynamics, and Splunk.
+## Career & Learning Journey
 
-I am aspiring to complete PMP certification(35 hours of mandatory training completed) and received several accolades for my leadership and performance, including multiple Associate of the Quarter awards in my last organization.
+- 14+ years in Software Engineering & Solution Architecture  
+- Certified Cloud Developer (AZ-305, AZ-204, AZ-900)  
+- Currently pursuing **MBA in AI for Business** at **BITS Pilani (WLIP Division)**  
+- Exploring **Generative AI** integration into enterprise systems  
+- **2 Patent Filings in Progress** in the Banking domain  
 
-##### Highlights:
+##### Personality Snapshot
 
-AZ-204 & AZ-900 Certified Cloud Developer
+-  **Clear Communicator** – Aligning teams with vision & goals  
+-  **Decisive Leader** – Bold decisions that maintain momentum  
+-  **Efficient Organizer** – Turning chaos into structured outcomes  
+-  **Future-Focused Innovator** – Anticipating opportunities before others  
 
-Proficient in AI/ML concepts and Generative AI integrations
-
-Experienced in Agile/Scrum Methodologies and enterprise collaboration
-
-Passionate about leadership, mentoring, and innovation
-
-Avid book reader and a Biryani enthusiast 🍽️
+##### Technical Expertise
+- **Backend & APIs**: C#, .NET 5, ASP.NET Core, RESTful APIs, Web Services, Entity Framework, LINQ  
+- **Frontend**: Angular 16, modern UI frameworks  
+- **Databases**: MSSQLServer, Oracle, SQL Lite, Azure SQL, Cosmos DB, MongoDB  
+- **Cloud**: 10+ years in **Azure Cloud Development** | Certified in **AZ-305**, **AZ-204** & **AZ-900**  
+- **AI & Innovation**: Designed and deployed **AI-based Proof of Concepts (POCs)** | Exploring **Generative AI (GenAI)** integration for enterprise productivity  
+- **Monitoring & Reporting**: Power BI, SSRS/SSDT, 
 
 
  ##### How to reach me
